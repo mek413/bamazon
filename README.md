@@ -11,7 +11,6 @@ The app will take in orders from customers and deplete stock from the store's in
 I'm responsible for writing the node application and ensuring that it works and no bugs are present.
 
 ## Screenshots
-
 ![image](https://user-images.githubusercontent.com/51460121/69897409-59315b00-1311-11ea-9090-6b3222bdf0ac.png)
 
 ![image](https://user-images.githubusercontent.com/51460121/69897536-0c4e8400-1313-11ea-9229-691f8ea3bad7.png)
