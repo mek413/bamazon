@@ -2,7 +2,7 @@
 Bamazon
 
 ## Description
-Bamazon is an Amazon-like storefront with the MySQL.
+Bamazon is an Amazon-like storefront using Node and MySQL.
 
 ## Results
 The app will take in orders from customers and deplete stock from the store's inventory.
