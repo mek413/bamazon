@@ -1,4 +1,4 @@
-# bamazon
+# Project Name
 Bamazon
 
 ## Description
