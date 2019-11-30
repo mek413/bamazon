@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mek413/bamazon/issues"
   },
-  "homepage": "https://github.com/mek413/bamazon#readme"
+  "homepage": "https://github.com/mek413/bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
 }
