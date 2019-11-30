@@ -17,7 +17,7 @@ I'm responsible for writing the node application and ensuring that it works and 
 
 ![image](https://user-images.githubusercontent.com/51460121/69897418-8120be80-1311-11ea-9489-6f500d89a5a0.png)
 
-[image](https://user-images.githubusercontent.com/51460121/69897459-10c66d00-1312-11ea-8bff-19abdf2d86ed.png)
+![image](https://user-images.githubusercontent.com/51460121/69897459-10c66d00-1312-11ea-8bff-19abdf2d86ed.png)
 
 ![image](https://user-images.githubusercontent.com/51460121/69897489-6e5ab980-1312-11ea-9f1f-5c774fa19c0c.png)
 
